@@ -3,6 +3,8 @@
 This is a temporary fork of Jersey 1.X (1.19-5) used strictly to get rid of shaded/repackaged ASM dependencies.
 After Exchange migration to Jersey 2 this fork can be deprecated.
 
+The *current* branch from which this project is released is set to the default branch in github; asm-7.0 at the moment.
+
 Because this is a temporary project, releases are done by hand:
 
 ### Building
